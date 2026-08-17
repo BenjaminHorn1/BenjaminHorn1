@@ -1,6 +1,6 @@
 # Hi, I'm Elias Benjamin Horn 👋
 
-**Junior Backend Developer** — Entre Ríos, Argentina · Open to remote roles and relocation
+**Junior Backend Developer** — Buenos Aires (CABA), Argentina · Open to remote roles and relocation
 
 I build backend services that other people actually depend on: REST APIs, data pipelines
 and internal tools, with the boring parts done properly — tests, containers, migrations
